@@ -27,19 +27,21 @@ what it does:
 
 - Shows who should pay: Tells you who owes you money and who needs to stop freeloading/s
 
+
   
+How to Run This Without Stress (now one will):
 
-how to use it: (no one will)
+-Click the green “Code” button on this page and choose “Download ZIP.”
 
-1. Download or clone the project from GitHub.
+-Unzip the downloaded file. You’ll get a folder with the project.
 
-2. Open the terminal (or command prompt).
+-Open that folder and make sure the main.py file is inside.
 
-3. Run this command:
+-Right-click inside the folder and select: “Open in Terminal” or “Open in Command Prompt”(on Windows)
 
-   ```bash
+-Type python main.py and hit Enter:
 
-   python main.py
+
 
 
 
